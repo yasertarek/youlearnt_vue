@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="54" height="54" viewBox="0 0 54 54">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rocket_Background_Mask_" data-name="Rocket (Background/Mask)" width="54" height="54" transform="translate(-0.417 0.161)" fill="rgba(0,0,0,0)"/>
+    </clipPath>
+  </defs>
+  <g id="icon-rocket" transform="translate(0.417 -0.161)">
+    <rect id="Rocket_Background_Mask_2" data-name="Rocket (Background/Mask)" width="54" height="54" transform="translate(-0.417 0.161)" fill="rgba(0,0,0,0)"/>
+    <g id="Rocket" transform="translate(0 0)" clip-path="url(#clip-path)">
+      <path id="Rectangle_1" data-name="Rectangle 1" d="M17.894,0a2.224,2.224,0,0,1,2.279,2.337l-.559,10.918a9.512,9.512,0,0,1-9.124,9.019h0a9.144,9.144,0,0,1-9.467-8.308L.009,2.83A2.224,2.224,0,0,1,2.168.4Z" transform="translate(27.426 13.226) rotate(42.071)" fill="rgba(0,0,0,0)" stroke="#5046c7" stroke-width="2.5" stroke-dasharray="0 0"/>
+      <path id="Vector_46" data-name="Vector 46" d="M8.419.984A2.224,2.224,0,0,1,12.088.95L20.5,12.99c-7.166-2.579-12.9-2.042-20.5.526Z" transform="translate(36.017 3.401) rotate(42.071)" fill="rgba(0,0,0,0)" stroke="#5046c7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" stroke-dasharray="0 0"/>
+      <path id="Vector_47" data-name="Vector 47" d="M3.356.035a2.545,2.545,0,0,1,2.2,1.521L9.35,10.222a1.112,1.112,0,0,1-1.509,1.444L.623,8.126A1.112,1.112,0,0,1,.034,6.854L1.561.839A1.112,1.112,0,0,1,2.7,0Z" transform="translate(32.28 34.515) rotate(42.071)" fill="rgba(0,0,0,0)" stroke="#5046c7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" stroke-dasharray="0 0"/>
+      <path id="Vector_48" data-name="Vector 48" d="M3.473,12.9a4.974,4.974,0,0,0,3.3-2.981l3.284-8.4A1.112,1.112,0,0,0,8.424.18L.513,5.241a1.112,1.112,0,0,0-.5,1.1l.881,5.977a1.112,1.112,0,0,0,1.4.91Z" transform="translate(11.998 33.121) rotate(-137.929)" fill="rgba(0,0,0,0)" stroke="#5046c7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" stroke-dasharray="0 0"/>
+      <path id="Vector_49" data-name="Vector 49" d="M.964,0,0,18.85" transform="translate(28.47 26.134) rotate(42.071)" fill="rgba(0,0,0,0)" stroke="#5046c7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" stroke-dasharray="0 0"/>
+    </g>
+  </g>
+</svg>

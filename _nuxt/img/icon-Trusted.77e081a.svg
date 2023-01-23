@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="54" height="54" viewBox="0 0 54 54">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Secure_Background_Mask_" data-name="Secure (Background/Mask)" width="54" height="54" transform="translate(-0.254 0.161)" fill="rgba(0,0,0,0)"/>
+    </clipPath>
+  </defs>
+  <g id="icon-Trusted" transform="translate(0.254 -0.161)" clip-path="url(#clip-path)">
+    <path id="Vector" d="M39.373,10.879a1.172,1.172,0,0,0-.049-1.372l-.193-.248a2.224,2.224,0,0,0-.808-.646L20.843.387a2.224,2.224,0,0,0-1.894,0L1.469,8.613a2.224,2.224,0,0,0-.808.646l-.193.248a1.172,1.172,0,0,0-.049,1.372l17.628,26.34a2.224,2.224,0,0,0,3.7,0Z" transform="translate(6.637 6.638)" fill="rgba(0,0,0,0)" stroke="#5046c7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" stroke-dasharray="0 0"/>
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="4.449" cy="4.449" r="4.449" transform="translate(22.134 17.702)" fill="#5046c7"/>
+    <path id="Vector_55" data-name="Vector 55" d="M0,0V13.347" transform="translate(26.583 22.151)" fill="rgba(0,0,0,0)" stroke="#5046c7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" stroke-dasharray="0 0"/>
+  </g>
+</svg>
